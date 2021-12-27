@@ -7,7 +7,6 @@
 library(shiny)
 library(shinythemes)
 library(data.table)
-library(ggplot2)
 
 # Read data
 basketball <- read.csv('2021_NBA_Predictions.csv')
