@@ -7,6 +7,8 @@
 library(shiny)
 library(shinythemes)
 library(data.table)
+library(dplyr)
+library(tidyverse)
 
 # Read data
 basketball <- read.csv('2021_NBA_Predictions.csv')
